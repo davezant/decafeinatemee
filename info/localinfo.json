@@ -1,0 +1,34 @@
+[
+    {
+        "AppName":"Valorant",
+        "Icon":"C:\\...",
+        "Banner":"C:\\...",
+        "Path":"C:\\...",
+        "GameType":"FPS",
+        "HasBanner":true
+    },
+    {
+        "AppName":"TF2",
+        "Icon":"C:\\...",
+        "Banner":"C:\\...",
+        "Path":"C:\\...",
+        "GameType":"FPS",
+        "HasBanner":true
+    }
+    ,{
+        "AppName":"CS2",
+        "Icon":"C:\\...",
+        "Banner":"C:\\...",
+        "Path":"C:\\...",
+        "GameType":"FPS",
+        "HasBanner":true
+    },
+    {
+        "AppName":"Marvel Rivals",
+        "Icon":"C:\\...",
+        "Banner":"C:\\...",
+        "Path":"C:\\...",
+        "GameType":"TPS",
+        "HasBanner":true
+    }
+]
