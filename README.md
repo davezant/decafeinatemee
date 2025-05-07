@@ -1,4 +1,6 @@
-# decafeinateMee
+# Decafeinate Mee
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **decafeinateMee** is a local application built to manage user sessions and control computer usage time. Perfect for cyber cafes, families, libraries, or any shared computer space, it allows user registration and login, tracks active session time, and can restrict which applications are accessible during sessions.
 
